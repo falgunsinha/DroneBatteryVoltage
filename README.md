@@ -1,2 +1,2 @@
 # DroneBatteryVoltage
-Monitoring the status of Drone's battery voltage
+Monitoring and predicting the status of Drone's battery voltage
